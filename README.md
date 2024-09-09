@@ -2,7 +2,7 @@
 This project involves storing the name of a selected dropdown item in localStorage and then redirecting to a specific page. Upon reaching the redirected page, the script retrieves the stored item name and uses it to trigger a click on a corresponding tab element. The following sections describe the implementation details and usage of the project.
 
 **Overview**
-Store Dropdown Item: When a user clicks on an item in a dropdown menu, the item's text content is stored in localStorage, and the user is redirected to the education page.
+**Store Dropdown Item:** When a user clicks on an item in a dropdown menu, the item's text content is stored in localStorage, and the user is redirected to the education page.
 Retrieve and Act on Stored Item: On the redirected page, the script retrieves the stored item name and triggers a click on a tab element that matches the stored name.
 Implementation
 
